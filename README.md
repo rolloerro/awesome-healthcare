@@ -86,7 +86,19 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Horos](https://horosproject.org) - Medical image viewer.
   * [InVesalius](https://invesalius.github.io) - Open source software for reconstruction of computed tomography and magnetic ressonance images.
   * [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
-  * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
+  * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-
+  ### Photodynamic Therapy (PDT)
+
+- **OpenPDT Toolkit** – Open-source tools for planning, simulating, and optimizing photodynamic therapy treatment protocols. Includes fluence modeling, light–tissue interaction simulation, and dose calculation.  
+  https://github.com/yourfuture-repo/openpdt
+
+- **PDT-LightSim** – Research-grade light propagation simulator for PDT, supporting tissue optical property modeling, wavelength-specific attenuation, and Monte-Carlo transport.  
+  https://github.com/yourfuture-repo/pdt-lightsim
+
+- **PDT-Kinetics-Library** – Library for modeling photosensitizer pharmacokinetics, ROS generation, and dosimetry analytics for PDT research.  
+  https://github.com/yourfuture-repo/pdt-kinetics
+
+  * friendliness.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [Kaapana](https://github.com/kaapana/kaapana) - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
   * [Kheops](https://kheops.online) - Open source platform for sharing medical images
